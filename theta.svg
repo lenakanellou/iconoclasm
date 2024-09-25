@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg137"
+   sodipodi:docname="theta.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="theta.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview139"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.2331174"
+     inkscape:cx="38.269669"
+     inkscape:cy="54.569713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs134">
+    <linearGradient
+       id="linearGradient17019"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1281dc;stop-opacity:1;"
+         offset="0"
+         id="stop17017" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13153"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1fc5db;stop-opacity:1;"
+         offset="0"
+         id="stop13151" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10790"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#6edcea;stop-opacity:1;"
+         offset="0"
+         id="stop10786" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop10788" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7720"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7718" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleIn"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="EmptyTriangleIn"
+       markerWidth="4.1669998"
+       markerHeight="4.1669998"
+       viewBox="0 0 5.8241121 6.7330776"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path153" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#EmptyTriangleIn)"
+       d="m 2.6866604,2.9354358 c 0,17.1351502 0,17.2352532 0,17.2352532"
+       id="path148" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#EmptyTriangleIn)"
+       d="M 22.449292,19.005224 C 1.3344484,18.999157 1.2110962,18.999121 1.2110962,18.999121"
+       id="path148-3" />
+    <path
+       style="fill:none;stroke:#1281dc;stroke-width:0.251745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 2.8388746,17.333162 6.5832819,12.746625 11.170646,11.89896 12.795189,9.0945267 16.296602,8.3064132 21.025874,6.0928981"
+       id="path6238"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.079;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.079, 0.079;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 9.6195611,1.6728333 V 19.970884"
+       id="path7716"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#1281dc;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.06625,0.06625;stroke-dashoffset:0;stroke-opacity:0.993822"
+       d="m 2.840721,15.328889 1.3889869,-1.226625 1.1545997,2.536262 2.3875734,-3.401297 4.186248,0.343281 3.106299,-2.739431 6.025027,1.362407"
+       id="path5498"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1281dc;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.52999997,0.26499999,0.13249999,0.26499999;stroke-dashoffset:0;stroke-opacity:0.993822"
+       d="m 2.7611648,18.474134 1.388987,-1.226625 1.9290536,-3.107092 2.0914153,1.554034 2.3033393,-5.7698243 1.932168,-3.5783408 6.037966,-3.521143"
+       id="path5498-9"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.7962761"
+       y="21.485123"
+       id="text20751"><tspan
+         sodipodi:role="line"
+         id="tspan20749"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.15;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="8.7962761"
+         y="21.485123">n<tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.15;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub"
+   id="tspan20803">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.810493"
+       y="19.453678"
+       id="text20751-8"><tspan
+         sodipodi:role="line"
+         id="tspan20749-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.15;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="23.810493"
+         y="19.453678">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.4235868"
+       y="25.159269"
+       id="text20751-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan20749-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.15;font-family:'Annapurna SIL';-inkscape-font-specification:'Annapurna SIL, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="6.4235868"
+         y="25.159269">f(n) = <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan22053">Θ</tspan>(g(n))</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.778469"
+       y="14.239846"
+       id="text20751-8-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan20749-8-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.15;font-family:'Annapurna SIL';-inkscape-font-specification:'Annapurna SIL, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.778469"
+         y="14.239846">c<tspan
+   style="font-size:1.41111px;baseline-shift:sub"
+   id="tspan22041">1</tspan>*g(n)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.266777"
+       y="2.8344781"
+       id="text20751-8-0-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan20749-8-3-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.15;font-family:'Annapurna SIL';-inkscape-font-specification:'Annapurna SIL, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="19.266777"
+         y="2.8344781">c<tspan
+   style="font-size:1.41111px;baseline-shift:sub"
+   id="tspan22043">2</tspan>*g(n)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:0;font-family:Arimo;-inkscape-font-specification:'Arimo, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.178738"
+       y="6.0570555"
+       id="text20751-8-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan20749-8-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.15;font-family:'Annapurna SIL';-inkscape-font-specification:'Annapurna SIL, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="21.178738"
+         y="6.0570555">f(n) </tspan></text>
+  </g>
+</svg>
